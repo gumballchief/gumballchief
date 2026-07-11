@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,50:8E2DE2,100:A78BFA&height=210&section=header&text=GUMBALLCHIEF&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Founder%20%C2%B7%20Full%20Stack%20Engineer%20%C2%B7%20AI-Native%20Product%20Builder&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=GUMBALLCHIEF&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Founder%20%C2%B7%20Full%20Stack%20Engineer%20%C2%B7%20AI-Native%20Product%20Builder&descAlignY=58&descSize=17&color=0:4A00E0,50:8E2DE2,100:A78BFA" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Founder+%7C+Full+Stack+Engineer;AI+Agents+%26+LLM+Systems+Builder;Solana+%26+Real-Time+Market+Platforms;Shipping+Ideas+to+Production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&repeat=true&lines=Founder+%7C+Full+Stack+Engineer;AI+Agents+%26+LLM+Systems+Builder;Solana+%26+Real-Time+Market+Platforms;Shipping+Ideas+to+Production" alt="Typing SVG" />
 
 <br/>
 <br/>
