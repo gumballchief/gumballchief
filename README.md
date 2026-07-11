@@ -192,16 +192,6 @@ Designing, building, and operating multiple production products solo — owning 
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gumballchief&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
