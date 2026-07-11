@@ -51,7 +51,7 @@ Founder and full stack engineer building **production AI products end to end** �
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust&theme=dark" />
 </p>
 
 ### 🎨 Frontend
