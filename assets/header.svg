@@ -1,0 +1,41 @@
+<svg width="854" height="210" viewBox="0 0 854 210" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="base" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2E1065"/>
+      <stop offset="50%" stop-color="#5B21B6"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8E2DE2"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#base)">
+    <animate
+      attributeName="d"
+      dur="20s"
+      repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      begin="0s"
+      values="M0 0 L 0 150 Q 213.5 185 427 160 T 854 170 L 854 0 Z;M0 0 L 0 165 Q 213.5 140 427 165 T 854 150 L 854 0 Z;M0 0 L 0 145 Q 213.5 175 427 150 T 854 175 L 854 0 Z;M0 0 L 0 150 Q 213.5 185 427 160 T 854 170 L 854 0 Z"/>
+  </path>
+
+  <path fill="url(#sheen)" opacity="0.3">
+    <animate
+      attributeName="d"
+      dur="20s"
+      repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      begin="-10s"
+      values="M0 0 L 0 160 Q 213.5 190 427 170 T 854 155 L 854 0 Z;M0 0 L 0 140 Q 213.5 160 427 145 T 854 170 L 854 0 Z;M0 0 L 0 170 Q 213.5 145 427 165 T 854 145 L 854 0 Z;M0 0 L 0 160 Q 213.5 190 427 170 T 854 155 L 854 0 Z"/>
+  </path>
+
+  <text x="427" y="86" text-anchor="middle" dominant-baseline="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700"
+        fill="#FFFFFF" letter-spacing="2">GUMBALLCHIEF</text>
+
+  <text x="427" y="132" text-anchor="middle" dominant-baseline="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="500"
+        fill="#DDD6FE" letter-spacing="1">Founder · Full Stack Engineer · AI-Native Product Builder</text>
+</svg>

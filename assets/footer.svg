@@ -1,0 +1,33 @@
+<svg width="854" height="120" viewBox="0 0 854 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="base" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#5B21B6"/>
+      <stop offset="100%" stop-color="#2E1065"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#8E2DE2"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#base)">
+    <animate
+      attributeName="d"
+      dur="20s"
+      repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      begin="0s"
+      values="M0 120 L 0 45 Q 213.5 15 427 35 T 854 30 L 854 120 Z;M0 120 L 0 30 Q 213.5 55 427 30 T 854 45 L 854 120 Z;M0 120 L 0 50 Q 213.5 25 427 45 T 854 20 L 854 120 Z;M0 120 L 0 45 Q 213.5 15 427 35 T 854 30 L 854 120 Z"/>
+  </path>
+
+  <path fill="url(#sheen)" opacity="0.3">
+    <animate
+      attributeName="d"
+      dur="20s"
+      repeatCount="indefinite"
+      keyTimes="0;0.333;0.667;1"
+      begin="-10s"
+      values="M0 120 L 0 35 Q 213.5 60 427 40 T 854 50 L 854 120 Z;M0 120 L 0 55 Q 213.5 30 427 55 T 854 35 L 854 120 Z;M0 120 L 0 30 Q 213.5 50 427 35 T 854 55 L 854 120 Z;M0 120 L 0 35 Q 213.5 60 427 40 T 854 50 L 854 120 Z"/>
+  </path>
+</svg>

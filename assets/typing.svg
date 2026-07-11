@@ -1,0 +1,20 @@
+<svg width="720" height="36" viewBox="0 0 720 36" xmlns="http://www.w3.org/2000/svg">
+  <g font-family="Cascadia Code, Fira Code, Consolas, monospace" font-size="21" font-weight="600" text-anchor="middle">
+    <text x="360" y="24" fill="#A78BFA" opacity="1">Founder | Full Stack Engineer
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite"
+               keyTimes="0;0.2;0.25;0.95;1" values="1;1;0;0;1"/>
+    </text>
+    <text x="360" y="24" fill="#A78BFA" opacity="0">AI Agents &amp; LLM Systems Builder
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite"
+               keyTimes="0;0.25;0.3;0.45;0.5;1" values="0;0;1;1;0;0"/>
+    </text>
+    <text x="360" y="24" fill="#A78BFA" opacity="0">Solana &amp; Real-Time Market Platforms
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite"
+               keyTimes="0;0.5;0.55;0.7;0.75;1" values="0;0;1;1;0;0"/>
+    </text>
+    <text x="360" y="24" fill="#A78BFA" opacity="0">Shipping Ideas to Production
+      <animate attributeName="opacity" dur="12s" repeatCount="indefinite"
+               keyTimes="0;0.75;0.8;0.95;1" values="0;0;1;1;0"/>
+    </text>
+  </g>
+</svg>

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=GUMBALLCHIEF&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Founder%20%C2%B7%20Full%20Stack%20Engineer%20%C2%B7%20AI-Native%20Product%20Builder&descAlignY=58&descSize=17&color=0:4A00E0,50:8E2DE2,100:A78BFA" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Gumballchief — Founder · Full Stack Engineer · AI-Native Product Builder" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=720&repeat=true&lines=Founder+%7C+Full+Stack+Engineer;AI+Agents+%26+LLM+Systems+Builder;Solana+%26+Real-Time+Market+Platforms;Shipping+Ideas+to+Production" alt="Typing SVG" />
+<img src="assets/typing.svg" width="720" alt="Founder | AI Agents | Solana | Shipping" />
 
 <br/>
 <br/>
@@ -264,6 +264,6 @@ current_focus:
 
 *"Build systems that outlast the sprint — ship, verify, and let the work speak."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:8E2DE2,100:4A00E0&height=120&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
