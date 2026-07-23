@@ -1,13 +1,13 @@
 <svg width="854" height="210" viewBox="0 0 854 210" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="base" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2E1065"/>
-      <stop offset="50%" stop-color="#5B21B6"/>
-      <stop offset="100%" stop-color="#7C3AED"/>
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="50%" stop-color="#16233A"/>
+      <stop offset="100%" stop-color="#1F3350"/>
     </linearGradient>
     <linearGradient id="sheen" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8E2DE2"/>
-      <stop offset="100%" stop-color="#A78BFA"/>
+      <stop offset="0%" stop-color="#2C4A6E"/>
+      <stop offset="100%" stop-color="#4A6B8F"/>
     </linearGradient>
   </defs>
 
@@ -37,5 +37,5 @@
 
   <text x="427" y="132" text-anchor="middle" dominant-baseline="middle"
         font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="500"
-        fill="#DDD6FE" letter-spacing="1">Founder · Full Stack Engineer · AI-Native Product Builder</text>
+        fill="#C7D3E0" letter-spacing="1">Full-Stack Engineer · Production AI Tools · Everything Below Is Live</text>
 </svg>
