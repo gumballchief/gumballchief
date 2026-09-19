@@ -5,7 +5,7 @@
 **Self-taught full-stack engineer building production AI tools.**
 Every project below is deployed and live — click anything.
 
-[Portfolio](https://yousof.dev) · [LinkedIn](https://www.linkedin.com/in/yousof-mohamed-dev) · [gumballchief@gmail.com](mailto:gumballchief@gmail.com)
+[gumballchief@gmail.com](mailto:gumballchief@gmail.com)
 
 </div>
 
@@ -37,7 +37,6 @@ Honest status: launched July 2026 — no external users yet.
 | [**Gold Protocol**](https://gldfi.net) | Token on Robinhood Chain that pays holders in PAXG (tokenized gold) | 25-test Solidity suite; airdrop tool proven on mainnet |
 | [**snoofi**](https://snoofi.fun) | Scroll-driven 3D landing page — Three.js + GSAP ScrollTrigger | Live |
 | [**Lucky Coin**](https://luckycoin.fun) | Scratch-ticket-themed memecoin landing page | Live |
-| [**yousof.dev**](https://yousof.dev) | Portfolio with a live status board for everything above | Live |
 
 ---
 
@@ -51,4 +50,4 @@ TypeScript · Next.js · React · Node.js · PostgreSQL · Supabase · Solidity 
 
 Open to full-stack and backend engineering roles.
 
-**gumballchief@gmail.com** · [yousof.dev](https://yousof.dev) · [LinkedIn](https://www.linkedin.com/in/yousof-mohamed-dev)
+**gumballchief@gmail.com**
